@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gh-finder/static/css/main.3520b3a2.chunk.css",
+    "main.js": "/gh-finder/static/js/main.c3e45013.chunk.js",
+    "main.js.map": "/gh-finder/static/js/main.c3e45013.chunk.js.map",
+    "runtime-main.js": "/gh-finder/static/js/runtime-main.042a4902.js",
+    "runtime-main.js.map": "/gh-finder/static/js/runtime-main.042a4902.js.map",
+    "static/js/2.65039fc1.chunk.js": "/gh-finder/static/js/2.65039fc1.chunk.js",
+    "static/js/2.65039fc1.chunk.js.map": "/gh-finder/static/js/2.65039fc1.chunk.js.map",
+    "index.html": "/gh-finder/index.html",
+    "precache-manifest.786f740836a5ffa6ccf31e2c55011ef4.js": "/gh-finder/precache-manifest.786f740836a5ffa6ccf31e2c55011ef4.js",
+    "service-worker.js": "/gh-finder/service-worker.js",
+    "static/css/main.3520b3a2.chunk.css.map": "/gh-finder/static/css/main.3520b3a2.chunk.css.map",
+    "static/js/2.65039fc1.chunk.js.LICENSE": "/gh-finder/static/js/2.65039fc1.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.042a4902.js",
+    "static/js/2.65039fc1.chunk.js",
+    "static/css/main.3520b3a2.chunk.css",
+    "static/js/main.c3e45013.chunk.js"
+  ]
+}
